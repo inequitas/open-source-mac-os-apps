@@ -1,0 +1,9 @@
+# XcodeGen output
+BotDeck.xcodeproj/
+
+# Xcode / build
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+.DS_Store
